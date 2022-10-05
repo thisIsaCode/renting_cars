@@ -36,7 +36,7 @@ public:
             cout << "\t\t\t\t4. TATA" << endl;
             cout << "\t\t\t\t5. HYUNDAI" << endl;
             cout << endl;
-            cout << "\t\t\t\tChoose a Car Company from the above options: ";
+            cout << "\t\t\t\tPlease select a car company you want to rent from the options above : ";
             cin >> comapanyName;
             cout << endl;
             cout << "--------------------------------------------------------------------------" << endl;
