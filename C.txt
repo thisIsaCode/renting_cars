@@ -1,0 +1,8 @@
+Please select a car model from the following list : 
+1. S-CROSS 	 
+2. VITARA-BREZZA
+3. CIAZ
+4. ERTIGA
+5. DZIRE
+6. SWIFT
+7. WAGAON-R
